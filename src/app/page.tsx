@@ -41,7 +41,7 @@ export default function LandingPage() {
                   Sign In
                 </Button>
                 <Button size="sm" className="font-medium">
-                  Get Started
+                  <Link href="/video">Get Started</Link>
                 </Button>
               </div>
             </nav>
